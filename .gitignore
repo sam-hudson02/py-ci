@@ -1,0 +1,7 @@
+/secret
+/.vscode
+/builds
+/scripts
+/configs
+/env
+**/__pycache__/
